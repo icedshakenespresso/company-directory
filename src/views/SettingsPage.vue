@@ -1,5 +1,3 @@
 <template>
-    Settings Page
+    Settings
 </template>
-
-<script></script>

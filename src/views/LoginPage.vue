@@ -1,3 +1,3 @@
 <template>
-    Login Page
+    Login
 </template>
